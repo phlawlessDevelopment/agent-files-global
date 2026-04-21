@@ -217,5 +217,3 @@ When adding rules:
 - Use explicit MUST/SHOULD language.
 - State scope and exceptions clearly.
 - Avoid contradictory directives.
-
-
